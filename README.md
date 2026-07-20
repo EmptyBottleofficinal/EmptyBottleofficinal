@@ -1,5 +1,4 @@
 ## Hi there 👋
-```mermaid
-flowchart TB
-  a["EmptyBottle"]
+```c#
+console.log("hi")
 ```
